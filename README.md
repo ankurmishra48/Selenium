@@ -1,14 +1,14 @@
-# 🚀 Selenium Automation Examples
+#  Selenium Automation Examples
 This repository contains a collection of Selenium WebDriver automation scripts written in **Java**. Each script demonstrates the automation of different web elements and functionalities.
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Java 1.8**
 - **Selenium WebDriver**
 - **Maven** for dependency management
 - **Eclipse IDE**
 
-## ✨ Features Covered
+##  Features Covered
 
 - Alerts (Simple, Confirm, Prompt)
 - Bootstrap dropdowns
